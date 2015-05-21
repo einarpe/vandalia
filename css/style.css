@@ -1,0 +1,27 @@
+
+body {
+  background: #eaeaea;
+}
+
+#holder {
+  width: 851px; margin: 0 auto;
+  padding: 0;
+}
+
+header {
+  width: 851px; height: 315px;
+  text-indent: -9999px;
+  background: url(../images/header.jpg) center center no-repeat;  
+}
+
+h1, h2 {
+  margin: 0;
+}
+
+
+footer {
+  border-top: 1px solid #999;
+  font-size: 0.618em;
+  text-align: center;
+  line-height: 3.14em;
+}
