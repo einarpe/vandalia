@@ -20,8 +20,17 @@ h1, h2 {
 
 
 footer {
-  border-top: 1px solid #999;
+  border-top: 1px solid #ccc;
   font-size: 0.618em;
   text-align: center;
   line-height: 3.14em;
+  color: #ccc;
+}
+
+footer a {
+  color: inherit;  
+}
+
+.clr {
+  clear: both;
 }
